@@ -15,7 +15,9 @@ Clave pública: (3, 253)
 Clave privada: (147, 253)
 
 Ingrese el mensaje a cifrar: Sistemas
+
 Mensaje cifrado: [7, 150, 92, 139, 85, 175, 102, 92]
 
 Mensaje descifrado: Sistemas
+
 Valores ASCII: [83, 105, 115, 116, 101, 109, 97, 115]
