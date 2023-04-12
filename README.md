@@ -8,6 +8,7 @@ Ejemplo de uso:
 
 Ingrese el número primo p: 11  
 Ingrese el número primo q: 23
+
 Ingrese el número e: 3
 
 Clave pública: (3, 253)
